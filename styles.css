@@ -216,7 +216,6 @@ body {
 /* best product section */
 
 .best-product-section {
-    height: 60rem;
     width: 100%;
     display: flex;
     justify-content: start;
@@ -344,7 +343,6 @@ body {
 /* collection section */
 
 .collection-section {
-    height: 60rem;
     width: 100%;
     padding: 2rem;
 }
